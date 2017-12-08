@@ -18,6 +18,6 @@ The pin order of the 1-Wire connectors is:
 One can solder either male or female pin headers to the breakout board and connect the sensors using Dupont wires, or use female pin headers with the sensors directly plugged into the breakout board.
 
 
-![NodeMCU I²C breakout board](https://github.com/open-tools/NodeMCU-i2c-Breakout-Board/blob/master/images/IMG_0616.JPG "The breakout board with some I²C sensors connected")
-![NodeMCU I²C breakout board](https://github.com/open-tools/NodeMCU-i2c-Breakout-Board/blob/master/images/IMG_0613.JPG "The breakout board with some I²C sensors connected")
-![NodeMCU I²C breakout board](https://github.com/open-tools/NodeMCU-i2c-Breakout-Board/blob/master/images/IMG_0614.JPG "The breakout board with some I²C sensors connected")
+![NodeMCU I²C breakout board](images/IMG_0616.JPG "The breakout board with some I²C sensors connected")
+![NodeMCU I²C breakout board](images/IMG_0613.JPG "The breakout board with some I²C sensors connected")
+![NodeMCU I²C breakout board](images/IMG_0614.JPG "The breakout board with some I²C sensors connected")
